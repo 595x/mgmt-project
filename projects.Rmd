@@ -1,0 +1,15 @@
+---
+title: "Case Studies"
+---
+
+## Project 1: Retail Optimization
+**Client:** A local retail chain.
+**Challenge:** Inventory management was inefficient, leading to lost sales.
+**Solution:** We implemented a digital tracking system.
+**Result:** 20% reduction in stock discrepancies.
+
+## Project 2: Startup Scale-Up
+**Client:** A tech startup in the seed stage.
+**Challenge:** Lack of structured internal processes.
+**Solution:** Designed an organizational chart and workflow documentation.
+**Result:** Successful onboarding of 15 new employees in Q1.

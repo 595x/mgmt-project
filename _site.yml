@@ -1,0 +1,17 @@
+name: "emgmt-business-site"
+output_dir: "docs"
+navbar:
+  title: "HG Management Solutions"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Services"
+      href: about.html
+    - text: "Our Team"
+      href: team.html
+    - text: "Case Studies"
+      href: projects.html
+output:
+  html_document:
+    theme: flatly
+    highlight: tango

@@ -1,0 +1,14 @@
+---
+title: "About & Services"
+---
+
+## Our Mission
+To provide top-tier management consulting services that bridge the gap between traditional business practices and modern technology.
+
+## Services Offered
+* **Strategic Planning:** Long-term roadmap development for startups and established firms.
+* **Operational Efficiency:** Analyzing workflows to reduce waste and improve productivity.
+* **Digital Transformation:** Implementing tech solutions to modernize business processes.
+
+## Target Market
+We serve small-to-medium enterprises (SMEs) in the tech and retail sectors looking to scale their operations.
